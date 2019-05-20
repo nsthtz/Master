@@ -1,0 +1,16 @@
+TODO STUFFS
+
+?? Legge til opptakt med D som mulighet i begynnelsen
+
+?? Legge til obligatorisk halvslutning etter første takt
+
+Major
+Ts / Sm
+Ss
+Tm / Ds
+
+Minor
+Dm
+Ts / Sm
+Tm / Ds
+
