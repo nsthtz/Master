@@ -2,7 +2,7 @@ TODO STUFFS
 
 ?? Legge til opptakt med D som mulighet i begynnelsen
 
-?? Legge til obligatorisk halvslutning etter første takt
+?? Legge til halvslutning / helslutning
 
 Major
 Ts / Sm
