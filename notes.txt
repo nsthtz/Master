@@ -24,3 +24,11 @@ S/3 F  | A C C F (57, 3), (60, 5), (72, 5), (77, 1)
 D   G  | G D B G (55, 1), (62, 5), (71, 3), (79, 1)
 
 
+
+BBAIO with dynamic heuristic + no voice heuristic
+Done. Total checked: 457404, Pruned: 446674, completed: 39, time: 8.17300009727478, efficiency: 4.7718095602377675
+Results: bestval_func: 64, bestval_voices: 54
+
+BBAIO with dynamic heuristic + no voice heuristic
+Done. Total checked: 412725, Pruned: 410112, completed: 52, time: 4.858999967575073, efficiency: 10.70179056328561
+Results: bestval_func: 62, bestval_voices: 31
