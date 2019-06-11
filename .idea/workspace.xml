@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a68f5d6e-6a39-454d-8abd-3816cb454652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneNewHeuristic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneNewHeuristic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/BBallinoneNewHeuristic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/BBallinoneNewHeuristic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/input/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/input/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/.idea/neural-composer-assignement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/COMMIT_EDITMSG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/FETCH_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/ORIG_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/logs/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/logs/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/logs/refs/remotes/origin/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/logs/refs/stash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/00/4f144ebbb731a551c252d9830e725cf23583d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/01/06a781590c3522bd858fc79027b7738fb84a99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/03/98f1a0efec944bd00d52982436204b8612e3e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/06/37a088a01e8ddab3bf3fa98dbe804cbde1a0dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/09/6cf5a12a4ffcb66e5b3c34105e249100008e12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/0a/b345837e2085e56728e048eb226d3110a10cfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/0a/dd8f38ad3e36a409538df2279294d1b92b1bbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/0b/e802a5dde0eaee5edc1bd9a72685d7516eb363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/0d/a8e9bc0295375dd5ca94358792c230bcb59162" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/13/2f235395053ff5392deeea63ac43907e6b44db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/13/4346e1eec6364e88c35bae0bb856e2de9f8c25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/13/ddf35f4707bb4abf41901e74b2608ab0f0b873" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/14/ab22b0c6773208a3c85c140166f72be5914516" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/16/62f1a037dc60ac14ecaf2569f6dae1456290f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/17/be9f1a16ced177cbf2430d0858f18416c1b66a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/18/08b4198e4e1a05a2d7e6b505ce962c590ebeae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/19/7dc004a3ba985de20560864d8708c23e916cb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/19/9b157b6168223aba825e203865ba0db5ef8293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1a/8ab64d2fc694335605d5b6f61afeae4eab5d00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1b/b377807fe80fe4a9152ecb223c32ff162ba093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1c/ebabcd1e2f9ed6ed1f6554f8f252d8b00ef2f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1e/06a625908f18713fa77fa6a3852c89fbb2466b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1e/49f66be9cc02a869b491d8a3b481d7b177cfbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1e/982f9656f83c5b5ecb4b11df921c3704a4a530" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/1e/c01363eb394f01cee354486b3522f5a9bfb07d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/20/7d178b829c812f4ee886ddc0405fd9226a99c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/21/188c86d0867bde9fb5d1d457c5a416fa4ae546" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/23/059a3b4e3279e12bfce5a803dda7274506bfa3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/24/492050821b888f8dd8e6dfd7b683ecc6fbf149" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/25/3994ce067a63d5559ed059744de341d602be1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/26/02063c3e119665866c3659e97c82c4cfebac36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/26/95186b45247c165427ba829c170a798a191fb5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/28/bc77fd9065e8b7b844c0dfd5000c676f9ede37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2a/30da3d2c68fa970ed2103ba51677690ac2562d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2a/908154ec8fbea7ed813502e01e22bf2187afae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2b/39f94ce520e6160c1344b3ad841105f6d2aead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2b/ac0ca230094cda202bc3735f3f578eb18a9f6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2c/d45a48c77987ee6f3d9622446e5662582ccbf3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2e/70b3fc3e6d514115cbd1507d0225a73e14c1c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2f/1e7c9237c5793f4f7788fa0d567b09ebd304f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2f/b60afa9237d612ef29a3e68d408d7872bacbb1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/2f/d64429bf421126b7000c94ce0f6fd186fbd01f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/32/05e5f44f8a55a384fe0ae4db9090f2465de2e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/33/a4b1fe106c06edf85f31e77f663abff2420024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/36/4f9eb73443afdccce45e0b2059e81b4ad7d6b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/36/de532d8b15c753cd07965f68e6dfa9fdf5ebd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/37/c7f7a2add5ec37716b94d693d6ecded15c461f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/39/32580534a76eb5854922b8782132f71a2b9a8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3a/19c56dbe1b7e9204e1252f6d292c8eafdddf35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3a/49c82c9fdc23dfb2a63459dd3c042ed3f89093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3a/ef8b89c928896f48c0904664f8e64f82af7041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3c/5bbb32a57283f104ba057e0cebbf0ff7758b27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3c/ab9c1e83ee89a1ff292e2e35598f4b171b2751" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3c/c89a1cf3fe1d2c66517ea7709e0ffadcb99be3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3e/e8bb20f7806859c96a8219950e482b97e8a039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/3f/7b66a2bc44e72b6e74dae34e41d3bd0b648da2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/42/77cb0586b036a737fcb90b94bfec99f2779f04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/44/bdecabcfabf8d77e34cf9913e8dea2a4d4648e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/46/5f5730b5d62d8001d0c5dfa098e85ee694c8fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/47/63758919f5c26064b3aac7e2128c6709f9d246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/48/1a0ae349f25e69ae240def1dbd23c407e60d28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/48/5bce123fd4ef3df1d8c291c60b928d80d9b27d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/49/068745f043f0b9f66278c177c291efb8e49446" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/49/643b4ebe03e8d8bf285f547fd3ea5f4b351664" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/4a/0b955c651d567310d02c46c63e79ae25ebe7f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/4b/14c211c8d7104555e7edaae5b2aa031763d1b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/4b/491290a1fb3b9ad089dce4e0319b1e8ae03629" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/4d/fa1cfccbbe5bda458331c55bf9fbc91a8c75be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/4e/146c135cd0d27e8c6213d4d723d6173b8aaa4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/4f/e7001919769f1bf6666c391720a28f67c55acd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/51/914916e009e3bbcfac6d04672ebd4182fc2be0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/53/009f18a4c2336601de6800193c4317c6f30afd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/54/0702cae1061a6189497ebc39be5bdd13f3a2d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/55/c5f8442bdd886c93d2753a18b22c5015ed3c91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/56/a2287139156562119ded6e9d357616ba42677b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/58/62b1521c0e6aa6414408abd468ed235c40971e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/58/c5755cf3b9525ef3425bc3a5a3312e85be51a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/5c/eb62349288ab3daa3c2c896e6439854c775afe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/5d/1ede0949ab46b243695e5fda5c57899e842dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/5f/67261dd6852860c38c2ac0b747a095ed83024c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/5f/d0b7ad3b20bc24722ab3d06b4e75f560e21925" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/60/8ebbb45467507c3ece6ac8227dbd7b1f748a0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/60/e3130777ce278c90a8444ab124235e04d02d76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/62/c8df4b94a3bf8c2824f461ab0f26b6243739a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/63/7736a9bb107faaa5278d967f033bf8ba057283" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/64/34b93bff9718f933b92959ec30e69b6d6f4af0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/66/806fd29c1a57bbdb05dca1f21348cd9f8540b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/67/27584d3ec696141dc97ca910c14694a246f59e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/67/5f4a1b4bab62f635af36bd8b70fdb1e8a2faa0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/67/77f37bf6d26d05e400e7d35efe0a95e711fa59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/67/de888ddfa042b6aa2eb642fdc7f1712fded400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/68/c7a8b2228628eaec0dd548bc7e94401cb7a927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/6d/2d31dfe06de2721588a6526689adc7857f6d9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/6d/b382543ba6fbd8f4d1655b4a22e91468d47034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/6f/0e766858b431fb1dce60d4635444858517e7ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/71/d41f240a6d6aefc1121d8a0b4462be77264848" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/73/1ea868e4b12debaad624bb8550ea89e0af9db8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/73/31ddbc92ee3f2c5deca9bf2e34f73bda19e1e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/78/4c8d2c1d75f49ebf6290ec1a15f6c513f51592" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/79/6f7a9fbfd5762a256b75b8d0b0d551a384b434" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7a/8f9a026722708bbaf718a0c6f189d556314b53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7c/375bc5077ee7b027b5ca1bf11dd9fd32001e6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7c/9d48f0fdb082ceb3555fd1dc94cc6e152b70a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7c/d31ef1b2895474b564bde2e82b50cfade45edb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7e/07ff28582313c99a225ec71bf94b82786d59ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7f/29635b702cb81278f60085130a4e380408d757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7f/2be48ed8b3a95d861a478d41124ba901ff1236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/7f/7f492d9b8360bf95d797d367a551c3bd7f2692" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/80/835e93396f56a8dc74f750597014cbd39a42c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/83/4a3d51d9d62594f7ca7436c81e7b4914f7f910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/84/a24d5dc0c3f80cc6806324bd85914dc285d455" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/85/4cd71ede6bc6cd83587881b4f83baf9d6c4c4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/85/c9c57a231b5718048048189cb8dcf77b362c97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/86/5611434f0cce78ec2223c6c4d52a717e8ec1c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/87/3566601b57957631b3c92f0c49b856c38173b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/87/d911736a8637c72a4621c86f2d7baff5c394f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/88/243b5ceb574f9537682f1bbdb907e7a20d495b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/88/d6cadce3a67163405dc0d74f05ba4751dce2e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/89/504ed2e08e5e9c618d29bd387641679012e8b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/8a/0d712f41c3e1340b6db40d83983178a1c63f2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/8a/4cae03bd9f01b51bac177c802663c6fcf3f2aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/8b/56225da539ef70d6bb258957f5fc55f71d6ead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/8e/2bff28c0bc9497b7484af1f5aa3d0700eac319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/8e/63a869c4357c9b150bc41aef5131bf5eebc188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/90/450b77f5b2241fa34ef5f74ba950ea0509af15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/90/65aa56b94938fb5e12a7fb9c85d96721e3c032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/90/8af78a978a2c0e1b54b8e21ec0760c8fcac4c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/90/ac319a4e3923c74341b2398652808d58ea2d9a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/91/17622da4b2085f8dd24f46c48ee0da71b332ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/91/c2c724598d71fd18931b73ec05d5b0bbb76e5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/93/0ab992f10bbdde51db745897e741bbfe5fd138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/93/252d56a012e427043bcd78fc90309bba39fd05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/94/07ec631e2e69175c4ea90feabcbbbfb9b8f2c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/94/a25f7f4cb416c083d265558da75d457237d671" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/97/c8723f9783015e929d003e06405f50f703b1e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/98/f373757f876d59e5967b3c52579b7eb82c0cf0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9a/6e66ea1e51a44410355fff471486bdf0f708ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9a/bc45a19785d33a586ead7e72bf3bbe96bfedd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9b/8535689a1bafd7533f8cc114c1e884205555ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9b/f57a66e024c7f8e581cf9f7c9874d7074cba43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9c/8d2ebfb57a9cc7ca77578f721f1639411dd180" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9c/caf0f8a629704e2e60763aec0fbb5c44a279e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/9f/9a63e250645ed407fe8538cac1234fec5b0240" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a0/973351fa89e5a0678d9bf96e9f6066f17f9b7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a0/9a7cebadc7f7cda24085407a04d0e32f048982" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a2/0befdc88e8538b0abe02153a7012ebd54b7bf1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a2/57e8cb521ef50555d8a1081d674fcae0ee36ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a3/24ffc12e12b5c7c76666835b38caf0b12661a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a4/215b4eaab1eba3929b2d14c7f05b3ae21ebab5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a6/2c1e3ef85cfef2db2d54eb44d20a13b8797703" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a6/c1ca76965bcfa936010868e011dec362857c30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a7/2a28a5658c0da914ef0cb991a4a7ccff629b60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a7/d2388dfe7d675938dd56cd0e424126b6fe8305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/a8/53cc1923fe3df1647fd42a28ab859943803117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ac/226ec6bdc6045fd9169df13d8afde76ddbc3a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ad/916833b4eba3dd1435b5579ecc0edf8febeaed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ad/ed074bdb4de61fdfb800b4d8c53a57488f3da8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ae/9179f9bd89b149e7742497e2c677f7579d78b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b0/d8be29780a5bdee55ab41e8ac21ebc980195aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b1/9d0a1547c324840f0cfc727a804661c0640b92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b1/e1be75fc8c9e270b8681d3c840c6244a03cb2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b6/89dfb013a6dc7b0131ea1a7d31eceec0cea9d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b6/94c8889233dda46def8a5902b855dd4ac9303e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b6/ea1380c730a8aff7f0c16ca17ee8b091ee1220" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b6/f788c3ae6cd5354ce40985c8e09671b5162178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/b8/7e14162a7feffbdbc881d88070da029e4c57be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ba/49b6deecf810250bbd62ee32355093e81f4125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ba/557438babaeee433c375e1f7d037e9590651fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/bb/78ba07ee538a8e56ecaa7e22910d963ef2b634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/bb/a8899044c4a7d494aaba8b27df11c18e20daa9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/bc/a7733ceb27fe871e456960746c884271ddea5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/bf/43714fc4200d6d408e8e33b74a4fd49dae7b1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c1/4219688e7c37c0be31a2a8d66c60c8e7891ce1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c1/589ada22b61ebe0cec2040021c0a19837280fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c1/cd2135fa73671f6377530304b98e3cef172da6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c3/22f13c2be07c461ed48a9702a9d7d4697ab4a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c5/15e0d3e2b55ef67f5b7b16575b4f33d0ac4b89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c5/a0927f236a34dc767e2a9181a352ab66260989" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c6/0c44f0b3c6f35e52b972187925c896abe1b4b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c7/7f525822b6cf766b64b5baa6a8a49366f9de7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c7/eb40328def7a709988f78ce9f93ff993d0be4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/c8/70326bd1c5f87af1e2fe44d07688574e0e26e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/cc/c5918f16d5791b2ba33bbb77cc5abc2045c049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/cf/0a677861d9b8f7534950222b0efea403955e3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d0/5e61c3b7c55986793fefdaf62006b85e085238" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d1/0cefb52e1198723aa3c61e9493b18b3f0cfd03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d3/84725b23eab2f540490589e3a69a3939d312aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d4/e2d013cadfd11ad218b53fd543c1aa66428150" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d4/f852451745a6062ff0b8ff8dade4313d4a8054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d5/fd78f030e0520a47941377684e6337fbe40d32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d8/24a2c851aa1836641edb91d66938acfb225e4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/d9/95d7e5b95b7935a3be0d13980eef570adafcf9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/da/89ae0726c90d740269b4e658f9d6941c8ae668" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/de/c7d82b16b6dc6de14c9b31cc87433b5abd3d98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/de/f06dd5f9874378aad550caaacb706a260c1b32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/e0/7065c244903f023ac9379f6809a72a4903f8db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/e2/64a04800540b0fe239b207239bb9bdb8096f42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/e6/6b3821b9c7e6fcceaebd6829d9e2511e350c41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/e8/e069029d984cf176ee3f5569565281d7c75fef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ea/80cdce6573f0e6d5b9d77adbea0574bcfe053d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ec/6b726c8c43463b84c0f4d2f8cd0df75d99d4e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ed/8ab9938579c4895451792cf06327c7faaa84d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ed/cc01b3a02dd9a0d7cf919720ea7a9fdfac5d1f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ee/7064eaff87dc043aab3b4b47b37ce47a5032ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/ee/fd5ba90154a998bde04781819a49037453f37c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f0/0d94cd5aa3c9117168ed93efcbd2ed2a223c4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f0/8e03760ff4cb81613f0cc5c11c3af0d1f79616" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f1/cc49b2516e4ae0209a062b99a1b573c188ac20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f2/bf4e3b17df3bbcc1c2d4ba297fdaba744781dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f3/0192e157bc39b5ed3468214369bdc1be3a399a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f4/ab9871ab8770b8c2c192108aad08dd55f28695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f7/86b3131a03e6e68790ccff8d10fef3dc2715fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f7/c6157120c8717da2d65df3f6b2c95b83b66667" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/f8/138bd7e0f3e4c7d099ddf81d912165a1a1b46f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/fc/63e3e61b2334d3cbf47e82cf5a233d3b110e34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/pack/pack-71ba5a5dedade3c7854fb9487baa4a2d63a34323.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/objects/pack/pack-71ba5a5dedade3c7854fb9487baa4a2d63a34323.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/refs/remotes/origin/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/backup.git/refs/stash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/01-JOYFL.MID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/01-JOYFL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/05-FITLY.MID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/1-KYRIE.MID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/1-KYRIEalto.MID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/2-GLORIA.MID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/bach_846.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/bach_847.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/bach_850.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_im2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_im5.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_im6.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_opus117_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_opus117_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_opus1_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_opus1_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_opus1_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_opus1_4.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/brahms_rhap.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_cc_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_cc_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_cc_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_cc_4.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_cc_6.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_clai.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_menu.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_pass.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/debussy_prel.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_311_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_311_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_311_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_330_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_330_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_330_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_331_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_331_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_331_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_332_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_332_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_332_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_333_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_333_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_333_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_545_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_545_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_545_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_570_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_570_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/mz_570_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/bach_846.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/bach_847.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/bach_850.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_im2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_im5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_im6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_opus117_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_opus117_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_opus1_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_opus1_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_opus1_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_opus1_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/brahms_rhap.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_cc_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_cc_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_cc_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_cc_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_cc_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_clai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_menu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_pass.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/debussy_prel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_311_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_311_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_311_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_330_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_330_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_330_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_331_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_331_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_331_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_332_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_332_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_332_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_333_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_333_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_333_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_545_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_545_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_545_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_570_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_570_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs1/mz_570_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/bach_846.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/bach_847.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/bach_850.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_im2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_im5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_im6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_opus117_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_opus117_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_opus1_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_opus1_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_opus1_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_opus1_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/brahms_rhap.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_cc_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_cc_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_cc_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_cc_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_cc_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_clai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_menu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_pass.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/debussy_prel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_311_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_311_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_311_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_330_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_330_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_330_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_331_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_331_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_331_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_332_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_332_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_332_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_333_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_333_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_333_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_545_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_545_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_545_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_570_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_570_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs2/mz_570_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/bach_846.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/bach_847.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/bach_850.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_im2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_im5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_im6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_opus117_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_opus117_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_opus1_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_opus1_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_opus1_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_opus1_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/brahms_rhap.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_cc_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_cc_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_cc_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_cc_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_cc_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_clai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_menu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_pass.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/debussy_prel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_311_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_311_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_311_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_330_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_330_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_330_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_331_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_331_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_331_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_332_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_332_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_332_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_333_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_333_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_333_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_545_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_545_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_545_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_570_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_570_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/datasets/training/piano_roll_fs5/mz_570_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/COMMIT_EDITMSG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/FETCH_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/ORIG_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/logs/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/logs/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/logs/refs/remotes/origin/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/logs/refs/stash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/00/4f144ebbb731a551c252d9830e725cf23583d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/01/06a781590c3522bd858fc79027b7738fb84a99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/03/98f1a0efec944bd00d52982436204b8612e3e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/06/37a088a01e8ddab3bf3fa98dbe804cbde1a0dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/09/6cf5a12a4ffcb66e5b3c34105e249100008e12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/0a/b345837e2085e56728e048eb226d3110a10cfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/0a/dd8f38ad3e36a409538df2279294d1b92b1bbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/0b/e802a5dde0eaee5edc1bd9a72685d7516eb363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/0d/a8e9bc0295375dd5ca94358792c230bcb59162" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/13/2f235395053ff5392deeea63ac43907e6b44db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/13/4346e1eec6364e88c35bae0bb856e2de9f8c25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/13/ddf35f4707bb4abf41901e74b2608ab0f0b873" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/14/ab22b0c6773208a3c85c140166f72be5914516" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/16/62f1a037dc60ac14ecaf2569f6dae1456290f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/17/be9f1a16ced177cbf2430d0858f18416c1b66a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/18/08b4198e4e1a05a2d7e6b505ce962c590ebeae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/19/7dc004a3ba985de20560864d8708c23e916cb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/19/9b157b6168223aba825e203865ba0db5ef8293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1a/8ab64d2fc694335605d5b6f61afeae4eab5d00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1b/b377807fe80fe4a9152ecb223c32ff162ba093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1c/ebabcd1e2f9ed6ed1f6554f8f252d8b00ef2f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1e/06a625908f18713fa77fa6a3852c89fbb2466b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1e/49f66be9cc02a869b491d8a3b481d7b177cfbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1e/982f9656f83c5b5ecb4b11df921c3704a4a530" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/1e/c01363eb394f01cee354486b3522f5a9bfb07d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/20/7d178b829c812f4ee886ddc0405fd9226a99c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/21/188c86d0867bde9fb5d1d457c5a416fa4ae546" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/23/059a3b4e3279e12bfce5a803dda7274506bfa3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/24/492050821b888f8dd8e6dfd7b683ecc6fbf149" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/25/3994ce067a63d5559ed059744de341d602be1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/26/02063c3e119665866c3659e97c82c4cfebac36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/26/95186b45247c165427ba829c170a798a191fb5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/28/bc77fd9065e8b7b844c0dfd5000c676f9ede37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2a/30da3d2c68fa970ed2103ba51677690ac2562d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2a/908154ec8fbea7ed813502e01e22bf2187afae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2b/39f94ce520e6160c1344b3ad841105f6d2aead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2b/ac0ca230094cda202bc3735f3f578eb18a9f6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2c/d45a48c77987ee6f3d9622446e5662582ccbf3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2e/70b3fc3e6d514115cbd1507d0225a73e14c1c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2f/1e7c9237c5793f4f7788fa0d567b09ebd304f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2f/b60afa9237d612ef29a3e68d408d7872bacbb1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/2f/d64429bf421126b7000c94ce0f6fd186fbd01f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/32/05e5f44f8a55a384fe0ae4db9090f2465de2e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/33/a4b1fe106c06edf85f31e77f663abff2420024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/36/4f9eb73443afdccce45e0b2059e81b4ad7d6b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/36/de532d8b15c753cd07965f68e6dfa9fdf5ebd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/37/c7f7a2add5ec37716b94d693d6ecded15c461f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/39/32580534a76eb5854922b8782132f71a2b9a8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3a/19c56dbe1b7e9204e1252f6d292c8eafdddf35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3a/49c82c9fdc23dfb2a63459dd3c042ed3f89093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3a/ef8b89c928896f48c0904664f8e64f82af7041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3c/5bbb32a57283f104ba057e0cebbf0ff7758b27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3c/ab9c1e83ee89a1ff292e2e35598f4b171b2751" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3c/c89a1cf3fe1d2c66517ea7709e0ffadcb99be3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3e/e8bb20f7806859c96a8219950e482b97e8a039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/3f/7b66a2bc44e72b6e74dae34e41d3bd0b648da2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/42/77cb0586b036a737fcb90b94bfec99f2779f04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/44/bdecabcfabf8d77e34cf9913e8dea2a4d4648e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/46/5f5730b5d62d8001d0c5dfa098e85ee694c8fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/47/63758919f5c26064b3aac7e2128c6709f9d246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/48/1a0ae349f25e69ae240def1dbd23c407e60d28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/48/5bce123fd4ef3df1d8c291c60b928d80d9b27d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/49/068745f043f0b9f66278c177c291efb8e49446" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/49/643b4ebe03e8d8bf285f547fd3ea5f4b351664" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/4a/0b955c651d567310d02c46c63e79ae25ebe7f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/4b/14c211c8d7104555e7edaae5b2aa031763d1b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/4b/491290a1fb3b9ad089dce4e0319b1e8ae03629" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/4d/fa1cfccbbe5bda458331c55bf9fbc91a8c75be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/4e/146c135cd0d27e8c6213d4d723d6173b8aaa4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/4f/e7001919769f1bf6666c391720a28f67c55acd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/51/914916e009e3bbcfac6d04672ebd4182fc2be0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/53/009f18a4c2336601de6800193c4317c6f30afd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/54/0702cae1061a6189497ebc39be5bdd13f3a2d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/55/c5f8442bdd886c93d2753a18b22c5015ed3c91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/56/a2287139156562119ded6e9d357616ba42677b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/58/62b1521c0e6aa6414408abd468ed235c40971e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/58/c5755cf3b9525ef3425bc3a5a3312e85be51a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/5c/eb62349288ab3daa3c2c896e6439854c775afe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/5d/1ede0949ab46b243695e5fda5c57899e842dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/5f/67261dd6852860c38c2ac0b747a095ed83024c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/5f/d0b7ad3b20bc24722ab3d06b4e75f560e21925" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/60/8ebbb45467507c3ece6ac8227dbd7b1f748a0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/60/e3130777ce278c90a8444ab124235e04d02d76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/62/c8df4b94a3bf8c2824f461ab0f26b6243739a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/63/7736a9bb107faaa5278d967f033bf8ba057283" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/64/34b93bff9718f933b92959ec30e69b6d6f4af0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/66/806fd29c1a57bbdb05dca1f21348cd9f8540b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/67/27584d3ec696141dc97ca910c14694a246f59e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/67/5f4a1b4bab62f635af36bd8b70fdb1e8a2faa0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/67/77f37bf6d26d05e400e7d35efe0a95e711fa59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/67/de888ddfa042b6aa2eb642fdc7f1712fded400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/68/c7a8b2228628eaec0dd548bc7e94401cb7a927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/6d/2d31dfe06de2721588a6526689adc7857f6d9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/6d/b382543ba6fbd8f4d1655b4a22e91468d47034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/6f/0e766858b431fb1dce60d4635444858517e7ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/71/d41f240a6d6aefc1121d8a0b4462be77264848" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/73/1ea868e4b12debaad624bb8550ea89e0af9db8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/73/31ddbc92ee3f2c5deca9bf2e34f73bda19e1e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/78/4c8d2c1d75f49ebf6290ec1a15f6c513f51592" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/79/6f7a9fbfd5762a256b75b8d0b0d551a384b434" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7a/8f9a026722708bbaf718a0c6f189d556314b53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7c/375bc5077ee7b027b5ca1bf11dd9fd32001e6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7c/9d48f0fdb082ceb3555fd1dc94cc6e152b70a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7c/d31ef1b2895474b564bde2e82b50cfade45edb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7e/07ff28582313c99a225ec71bf94b82786d59ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7f/29635b702cb81278f60085130a4e380408d757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7f/2be48ed8b3a95d861a478d41124ba901ff1236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/7f/7f492d9b8360bf95d797d367a551c3bd7f2692" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/80/835e93396f56a8dc74f750597014cbd39a42c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/83/4a3d51d9d62594f7ca7436c81e7b4914f7f910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/84/a24d5dc0c3f80cc6806324bd85914dc285d455" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/85/4cd71ede6bc6cd83587881b4f83baf9d6c4c4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/85/c9c57a231b5718048048189cb8dcf77b362c97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/86/5611434f0cce78ec2223c6c4d52a717e8ec1c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/87/3566601b57957631b3c92f0c49b856c38173b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/87/d911736a8637c72a4621c86f2d7baff5c394f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/88/243b5ceb574f9537682f1bbdb907e7a20d495b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/88/d6cadce3a67163405dc0d74f05ba4751dce2e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/89/504ed2e08e5e9c618d29bd387641679012e8b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/8a/0d712f41c3e1340b6db40d83983178a1c63f2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/8a/4cae03bd9f01b51bac177c802663c6fcf3f2aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/8b/56225da539ef70d6bb258957f5fc55f71d6ead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/8e/2bff28c0bc9497b7484af1f5aa3d0700eac319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/8e/63a869c4357c9b150bc41aef5131bf5eebc188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/90/450b77f5b2241fa34ef5f74ba950ea0509af15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/90/65aa56b94938fb5e12a7fb9c85d96721e3c032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/90/8af78a978a2c0e1b54b8e21ec0760c8fcac4c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/90/ac319a4e3923c74341b2398652808d58ea2d9a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/91/17622da4b2085f8dd24f46c48ee0da71b332ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/91/c2c724598d71fd18931b73ec05d5b0bbb76e5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/93/0ab992f10bbdde51db745897e741bbfe5fd138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/93/252d56a012e427043bcd78fc90309bba39fd05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/94/07ec631e2e69175c4ea90feabcbbbfb9b8f2c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/94/a25f7f4cb416c083d265558da75d457237d671" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/97/c8723f9783015e929d003e06405f50f703b1e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/98/f373757f876d59e5967b3c52579b7eb82c0cf0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9a/6e66ea1e51a44410355fff471486bdf0f708ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9a/bc45a19785d33a586ead7e72bf3bbe96bfedd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9b/8535689a1bafd7533f8cc114c1e884205555ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9b/f57a66e024c7f8e581cf9f7c9874d7074cba43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9c/8d2ebfb57a9cc7ca77578f721f1639411dd180" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9c/caf0f8a629704e2e60763aec0fbb5c44a279e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/9f/9a63e250645ed407fe8538cac1234fec5b0240" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a0/973351fa89e5a0678d9bf96e9f6066f17f9b7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a0/9a7cebadc7f7cda24085407a04d0e32f048982" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a2/0befdc88e8538b0abe02153a7012ebd54b7bf1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a2/57e8cb521ef50555d8a1081d674fcae0ee36ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a3/24ffc12e12b5c7c76666835b38caf0b12661a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a4/215b4eaab1eba3929b2d14c7f05b3ae21ebab5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a6/2c1e3ef85cfef2db2d54eb44d20a13b8797703" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a6/c1ca76965bcfa936010868e011dec362857c30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a7/2a28a5658c0da914ef0cb991a4a7ccff629b60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a7/d2388dfe7d675938dd56cd0e424126b6fe8305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/a8/53cc1923fe3df1647fd42a28ab859943803117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ac/226ec6bdc6045fd9169df13d8afde76ddbc3a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ad/916833b4eba3dd1435b5579ecc0edf8febeaed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ad/ed074bdb4de61fdfb800b4d8c53a57488f3da8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ae/9179f9bd89b149e7742497e2c677f7579d78b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b0/d8be29780a5bdee55ab41e8ac21ebc980195aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b1/9d0a1547c324840f0cfc727a804661c0640b92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b1/e1be75fc8c9e270b8681d3c840c6244a03cb2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b6/89dfb013a6dc7b0131ea1a7d31eceec0cea9d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b6/94c8889233dda46def8a5902b855dd4ac9303e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b6/ea1380c730a8aff7f0c16ca17ee8b091ee1220" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b6/f788c3ae6cd5354ce40985c8e09671b5162178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/b8/7e14162a7feffbdbc881d88070da029e4c57be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ba/49b6deecf810250bbd62ee32355093e81f4125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ba/557438babaeee433c375e1f7d037e9590651fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/bb/78ba07ee538a8e56ecaa7e22910d963ef2b634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/bb/a8899044c4a7d494aaba8b27df11c18e20daa9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/bc/a7733ceb27fe871e456960746c884271ddea5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/bf/43714fc4200d6d408e8e33b74a4fd49dae7b1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c1/4219688e7c37c0be31a2a8d66c60c8e7891ce1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c1/589ada22b61ebe0cec2040021c0a19837280fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c1/cd2135fa73671f6377530304b98e3cef172da6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c3/22f13c2be07c461ed48a9702a9d7d4697ab4a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c5/15e0d3e2b55ef67f5b7b16575b4f33d0ac4b89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c5/a0927f236a34dc767e2a9181a352ab66260989" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c6/0c44f0b3c6f35e52b972187925c896abe1b4b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c7/7f525822b6cf766b64b5baa6a8a49366f9de7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c7/eb40328def7a709988f78ce9f93ff993d0be4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/c8/70326bd1c5f87af1e2fe44d07688574e0e26e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/cc/c5918f16d5791b2ba33bbb77cc5abc2045c049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/cf/0a677861d9b8f7534950222b0efea403955e3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d0/5e61c3b7c55986793fefdaf62006b85e085238" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d1/0cefb52e1198723aa3c61e9493b18b3f0cfd03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d3/84725b23eab2f540490589e3a69a3939d312aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d4/e2d013cadfd11ad218b53fd543c1aa66428150" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d4/f852451745a6062ff0b8ff8dade4313d4a8054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d5/fd78f030e0520a47941377684e6337fbe40d32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d8/24a2c851aa1836641edb91d66938acfb225e4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/d9/95d7e5b95b7935a3be0d13980eef570adafcf9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/da/89ae0726c90d740269b4e658f9d6941c8ae668" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/de/c7d82b16b6dc6de14c9b31cc87433b5abd3d98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/de/f06dd5f9874378aad550caaacb706a260c1b32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/e0/7065c244903f023ac9379f6809a72a4903f8db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/e2/64a04800540b0fe239b207239bb9bdb8096f42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/e6/6b3821b9c7e6fcceaebd6829d9e2511e350c41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/e8/e069029d984cf176ee3f5569565281d7c75fef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ea/80cdce6573f0e6d5b9d77adbea0574bcfe053d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ec/6b726c8c43463b84c0f4d2f8cd0df75d99d4e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ed/8ab9938579c4895451792cf06327c7faaa84d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ed/cc01b3a02dd9a0d7cf919720ea7a9fdfac5d1f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ee/7064eaff87dc043aab3b4b47b37ce47a5032ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/ee/fd5ba90154a998bde04781819a49037453f37c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f0/0d94cd5aa3c9117168ed93efcbd2ed2a223c4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f0/8e03760ff4cb81613f0cc5c11c3af0d1f79616" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f1/cc49b2516e4ae0209a062b99a1b573c188ac20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f2/bf4e3b17df3bbcc1c2d4ba297fdaba744781dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f3/0192e157bc39b5ed3468214369bdc1be3a399a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f4/ab9871ab8770b8c2c192108aad08dd55f28695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f7/86b3131a03e6e68790ccff8d10fef3dc2715fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f7/c6157120c8717da2d65df3f6b2c95b83b66667" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/f8/138bd7e0f3e4c7d099ddf81d912165a1a1b46f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/fc/63e3e61b2334d3cbf47e82cf5a233d3b110e34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/pack/pack-71ba5a5dedade3c7854fb9487baa4a2d63a34323.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/objects/pack/pack-71ba5a5dedade3c7854fb9487baa4a2d63a34323.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/refs/remotes/origin/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/git/refs/stash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/.ipynb_checkpoints/GRU-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/.ipynb_checkpoints/dataset-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/.ipynb_checkpoints/rnn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/.pytest_cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/.pytest_cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/.pytest_cache/v/cache/nodeids" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/10bestTest.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/GRU.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/GRU.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Generalist.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/GeneralistDropout.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/RandomInput1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/RandomInput2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Seq2Seq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Specialist-256-Dropout-mby.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Specialist-256-not-shit.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Specialist-384-hidden-size-sounds-OK.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/Specialist.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/allchords.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/datapreparation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/DataTypeConverters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/EventDispatcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/MidiFileParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/MidiInFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/MidiInStream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/MidiOutFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/MidiOutStream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/MidiToText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/RawInstreamFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/RawOutstreamFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/changes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/example_mimimal_type0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/example_print_channel_0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/example_print_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/example_print_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/example_transpose_octave.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/midi/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/output.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/output/BBAIO100kFaster.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/output/BBAIO1mill86maybeoptimum.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/output/BBallinone100k.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/output/BBallinone1m.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/output/original.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test10.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test4.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test5.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test6.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test7.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test8.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/helpers/test9.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural-composer-assignement/tdt76-deep-learning.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Master$Convert.coverage" NAME="Convert Coverage Results" MODIFIED="1560173378968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
+    <SUITE FILE_PATH="coverage/Master$pypianorolltest.coverage" NAME="pypianorolltest Coverage Results" MODIFIED="1560172175723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
+    <SUITE FILE_PATH="coverage/Master$processpianoroll.coverage" NAME="processpianoroll Coverage Results" MODIFIED="1560192418868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1629151171">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4264" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4264" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="134" column="8" lean-forward="true" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Convert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>optimi</find>
+      <find>transpose</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/output/processpianoroll.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/Convert.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/datapreparation.py" />
+        <option value="C:/Python/Lib/site-packages/pypianoroll/multitrack.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/GRU.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-25" />
+    <option name="y" value="21" />
+    <option name="width" value="1873" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master" type="462c0819:PsiDirectoryNode" />
+              <item name="neuralnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master" type="462c0819:PsiDirectoryNode" />
+              <item name="neuralnet" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master" type="462c0819:PsiDirectoryNode" />
+              <item name="neuralnet" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DeepLearning\Master\neuralnet\helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.processpianoroll">
+    <configuration name="Convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neuralnet/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neuralnet/helpers/Convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processpianoroll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neuralnet/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pypianorolltest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neuralnet/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pypianorolltest" />
+      <item itemvalue="Python.Convert" />
+      <item itemvalue="Python.processpianoroll" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.processpianoroll" />
+        <item itemvalue="Python.Convert" />
+        <item itemvalue="Python.pypianorolltest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a68f5d6e-6a39-454d-8abd-3816cb454652" name="Default Changelist" comment="" />
+      <created>1560034364738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560034364738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25523704" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Python/Lib/site-packages/pypianoroll/multitrack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="966" column="32" selection-start-line="966" selection-start-column="32" selection-end-line="966" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="134" column="8" lean-forward="true" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
