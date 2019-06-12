@@ -33,7 +33,7 @@ class Generalist(nn.Module):
         self.relu = nn.ReLU()
 
 
-    def forward(self, input_sequence, tag, hidden=None, device='cuda'):
+    def forward(self, input_sequence, tag, hidden=None, device='cuda', sigmoid=False):
 
         if hidden is None:
             hidden = torch.zeros(self.n_layers, 1, self.hidden_size).to(device=device)
@@ -44,7 +44,9 @@ class Generalist(nn.Module):
         ### TEST
         lstm_out = self.relu(lstm_out)
         lstm_out = self.notes_decoder(lstm_out)
-        #lstm_out = self.output(lstm_out)
+
+        if sigmoid:
+            lstm_out = self.output(lstm_out)
         ###
 
 
@@ -132,7 +134,7 @@ def train_sequence(model, num_epochs, data, optimizer, loss_log):
             epochs_since_improvement = 0
         else:
             epochs_since_improvement += 1
-        
+
         if epochs_since_improvement == 500:
             break
 
@@ -172,19 +174,31 @@ def gen_music_seconds_smooth(model,init,composer=0,fs=5,gen_seconds=10,init_seco
     init = init.cpu()
     init_index = int(init_seconds*fs)
     tag = torch.LongTensor([composer]).unsqueeze(1).to(device=device)
-    song=generate_smooth(model,tag,(gen_seconds-init_seconds+1)*fs,init[1:(init_index+1)], device)
-    res = ( song.squeeze(1).detach().to(device='cpu').numpy()).astype(float).T
+    song, song_raw = generate_smooth(model,tag,(gen_seconds-init_seconds+1)*fs,init[1:(init_index+1)], device)
+    res= ( song.squeeze(1).detach().to(device='cpu').numpy()).astype(float).T
+    song_raw =  ( song_raw.squeeze(1).detach().to(device='cpu').numpy()).astype(float).T
+
     datp.visualize_piano_roll(res,fs)
-    return datp.embed_play_v1(res,fs)
+    return datp.embed_play_v1(res, song_raw, fs)
 
 def generate_smooth(model,tag,n,init, device):
     res = init
+    res_raw = init
     hidden = None
+
     for i in range(n):
-        init_new,hidden = model.forward(init,tag,hidden, device)
-        #init = torch.round(torch.exp(init))
+        init_new,hidden = model.forward(init,tag,hidden, device, True)
         init_new = init_new[-1:]
-        init_new = torch.round(init_new/torch.max(init_new))
+        init_raw = init_new
+
+        ## Choose top 4 suggested values as new input
+        init_top, indices = torch.topk(init_new, 4)
+        init_new = torch.zeros_like(init_new)
+        for index in indices:
+            init_new[0][0][index] = 1
+
+
+        res_raw = torch.cat((res_raw, init_raw))
         res = torch.cat ( ( res, init_new ) )
         init = torch.cat( (init[1:], init_new) )
-    return res
+    return res, res_raw

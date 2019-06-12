@@ -155,8 +155,8 @@ def test_piano_roll(pianoroll_matrix,n_seconds,fs=5):
     return pianoroll_matrix[:,1:(endpoint+1)]
     
 
-def embed_play_v1(piano_roll_matrix,fs=5):
-    return IPython.display.Audio(data=piano_roll_to_pretty_midi(piano_roll_matrix,fs).synthesize(),rate=44100), piano_roll_matrix
+def embed_play_v1(piano_roll_matrix, song_raw, fs=5):
+    return IPython.display.Audio(data=piano_roll_to_pretty_midi(piano_roll_matrix,fs).synthesize(),rate=44100), piano_roll_matrix, song_raw
 
 
 def generate_round(model,tag,n,k=1,init=None):
