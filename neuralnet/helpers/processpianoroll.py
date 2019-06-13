@@ -49,6 +49,16 @@ for filename in files:
     matrix = matrix.transpose()
     indexes = []
 
+    print(filename)
+
+    for i, entry in enumerate(matrix[1:, 1:]):
+        if all(e == 0 for e in entry):
+            indexes.append(i)
+        else:
+            break
+
+    matrix = np.delete(matrix, indexes, axis=0)
+
     for i, entry in enumerate(matrix[1:, 1:]):
         if all(e == 0 for e in entry) and all(m == 0 for m in matrix[i, 1:]):
             indexes.append(i+1)

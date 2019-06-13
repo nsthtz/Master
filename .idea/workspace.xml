@@ -3,10 +3,221 @@
   <component name="ChangeListManager">
     <list default="true" id="a68f5d6e-6a39-454d-8abd-3816cb454652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/.ipynb_checkpoints/GRU-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/.ipynb_checkpoints/GRU-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneNewHeuristic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneNewHeuristic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/BBallinoneNewHeuristic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/BBallinoneNewHeuristic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP/fourpart/output/test6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IP/fourpart/output/test6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/AC-11-Wann6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/C140-7-Gloria6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-06-grati6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-16-cruci6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/MBM-24-pacem6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-21-life6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SJP-65-help6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-03-chorl6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-16-chorl6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-21-chorl6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-23-chorl6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-38-chor6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-44-chorl6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-53-chorl6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/datasets/training/voicesonly/piano_roll_fs_1/SMP-55-chorl6.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neuralnet/helpers/GRU.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/GRU.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/datapreparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/datapreparation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test10.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test4.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test5.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test6.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test7.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test8.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test9.mid" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +228,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Master$Convert.coverage" NAME="Convert Coverage Results" MODIFIED="1560173378968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
     <SUITE FILE_PATH="coverage/Master$pypianorolltest.coverage" NAME="pypianorolltest Coverage Results" MODIFIED="1560172175723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
-    <SUITE FILE_PATH="coverage/Master$processpianoroll.coverage" NAME="processpianoroll Coverage Results" MODIFIED="1560192418868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
+    <SUITE FILE_PATH="coverage/Master$processpianoroll.coverage" NAME="processpianoroll Coverage Results" MODIFIED="1560430976699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neuralnet/helpers" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1629151171">
@@ -26,35 +237,38 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="pt" value="1" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Chameleon" value="1" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5175" />
+          <entry key="py" value="5379" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5175" />
+          <entry key="Python" value="5379" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="659">
@@ -80,8 +294,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="308">
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
               <folding>
                 <element signature="e#1#19#0" expanded="true" />
               </folding>
@@ -89,13 +303,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="160" selection-start-line="160" selection-end-line="160" />
+            <state relative-caret-position="340">
+              <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,9 +364,9 @@
         <option value="$PROJECT_DIR$/neuralnet/helpers/output/processpianoroll.py" />
         <option value="$PROJECT_DIR$/neuralnet/helpers/Convert.py" />
         <option value="C:/Python/Lib/site-packages/pypianoroll/multitrack.py" />
-        <option value="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" />
-        <option value="$PROJECT_DIR$/neuralnet/helpers/datapreparation.py" />
         <option value="$PROJECT_DIR$/neuralnet/helpers/GRU.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/datapreparation.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" />
       </list>
     </option>
   </component>
@@ -151,7 +376,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-25" />
     <option name="y" value="21" />
     <option name="width" value="1873" />
@@ -162,7 +387,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,6 +416,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,15 +536,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25523704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,12 +576,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="659">
+          <caret line="195" column="45" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
           <folding>
-            <element signature="e#1#19#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -371,6 +596,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Generalist.pt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Convert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -380,22 +617,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        <state relative-caret-position="308">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#1#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="195" column="45" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
+        <state relative-caret-position="340">
+          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>

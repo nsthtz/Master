@@ -85,8 +85,9 @@ def piano_roll_to_mid_file(pianoroll_matrix,fname,fs=5,instrument=1):
     """ input: piano roll matrix with shape (number of notes, time steps)
         output: string with path to mid file
     """
-    piano_roll_to_pretty_midi(pianoroll_matrix,fs,instrument).write(fname)
-    return os.path.join(os.getcwd(),fname)
+    print(fname)
+    piano_roll_to_pretty_midi(pianoroll_matrix,fs,instrument).write('../../results/neuralnet/' + fname)
+    return os.path.join(os.getcwd(), fname)
     
     
 def midfile_to_piano_roll_ins(filepath,instrument_n=0,fs=5):
