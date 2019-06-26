@@ -29,3 +29,6 @@ Done. Total checked: 8629103, Pruned: 8522735, completed: 5643, time: 506.480999
 Done. Total checked: 118899983, Pruned: 117898576, completed: 891, time: 5756.90700006485, efficiency: 0.154770608590683
 
 
+E | F G Am C | F Fm E E | Am F Dm E | Am - - E
+    F G Am C | F Fm E E | Am F Dm E | Am - - E
+	Bdim Em F Bdim | F - C C | F Gm6 Dm Dmb5 | A - - 
