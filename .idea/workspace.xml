@@ -2,20 +2,226 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a68f5d6e-6a39-454d-8abd-3816cb454652" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/IP/brainstorming.ods" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/chordmap.ods" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinone-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneAutomatisedStillWorking-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneBackup-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBallinoneFinal-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/.ipynb_checkpoints/BBthatWorks-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/BBallinone.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/BBallinoneAutomatisedStillWorking.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/BBallinoneBackup.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/BBallinoneFinal.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/Traditional_Four_Part_Vocal_Harmony.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/functionheuristicSP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP/fourpart/functionheuristicgraph.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/bach_846.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/bach_847.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/bach_850.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_im2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_im5.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_im6.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_opus117_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_opus117_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_opus1_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_opus1_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_opus1_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_opus1_4.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/brahms_rhap.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_cc_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_cc_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_cc_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_cc_4.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_cc_6.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_clai.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_menu.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_pass.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/debussy_prel.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_311_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_311_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_311_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_330_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_330_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_330_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_331_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_331_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_331_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_332_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_332_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_332_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_333_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_333_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_333_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_545_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_545_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_545_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_570_1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_570_2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/mz_570_3.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/bach_846.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/bach_847.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/bach_850.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_im2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_im5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_im6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_opus117_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_opus117_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_opus1_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_opus1_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_opus1_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_opus1_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/brahms_rhap.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_cc_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_cc_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_cc_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_cc_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_cc_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_clai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_menu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_pass.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/debussy_prel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_311_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_311_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_311_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_330_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_330_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_330_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_331_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_331_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_331_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_332_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_332_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_332_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_333_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_333_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_333_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_545_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_545_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_545_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_570_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_570_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs1/mz_570_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/bach_846.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/bach_847.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/bach_850.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_im2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_im5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_im6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_opus117_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_opus117_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_opus1_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_opus1_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_opus1_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_opus1_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/brahms_rhap.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_cc_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_cc_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_cc_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_cc_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_cc_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_clai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_menu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_pass.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/debussy_prel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_311_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_311_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_311_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_330_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_330_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_330_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_331_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_331_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_331_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_332_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_332_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_332_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_333_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_333_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_333_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_545_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_545_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_545_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_570_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_570_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs2/mz_570_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/bach_846.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/bach_847.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/bach_850.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_im2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_im5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_im6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_opus117_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_opus117_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_opus1_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_opus1_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_opus1_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_opus1_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/brahms_rhap.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_cc_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_cc_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_cc_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_cc_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_cc_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_clai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_menu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_pass.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/debussy_prel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_311_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_311_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_311_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_330_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_330_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_330_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_331_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_331_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_331_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_332_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_332_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_332_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_333_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_333_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_333_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_545_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_545_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_545_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_570_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_570_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/datasets/training/Old/piano_roll_fs5/mz_570_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/GRU.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/GRU.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/GRU.py" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/GRU.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/Generalist.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/GeneralistDropout.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/RandomInput1.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/RandomInput2.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/Seq2Seq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/neuralnet/helpers/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/DataTypeConverters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/EventDispatcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/MidiFileParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/MidiInFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/MidiInStream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/MidiOutFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/MidiOutStream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/MidiToText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/RawInstreamFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/RawOutstreamFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/changes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/example_mimimal_type0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/example_print_channel_0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/example_print_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/example_print_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/example_transpose_octave.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/midi/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/neuralloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/neurallosszoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/output (2).mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/output.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet/helpers/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimiser/brainstorming.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimiser/chordmap.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimiser/fourpart/BBallinone.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/optimiser/fourpart/BBallinone.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimiser/fourpart/Traditional_Four_Part_Vocal_Harmony.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimiser/fourpart/functionheuristicSP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimiser/fourpart/functionheuristicgraph.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/optimizer/optimiser-0.mid" beforeDir="false" afterPath="$PROJECT_DIR$/results/optimizer/optimiser-0.mid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/optimizer/optimiser-325.mid" beforeDir="false" afterPath="$PROJECT_DIR$/results/optimizer/optimiser-325.mid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/optimizer/pianoroll/optimiser-0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/optimizer/pianoroll/optimiser-0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/optimizer/pianoroll/optimiser-39.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/optimizer/pianoroll/optimiser-39.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +238,14 @@
     <session id="1629151171">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,12 +262,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5388" />
+          <entry key="py" value="5445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5388" />
+          <entry key="Python" value="5445" />
         </counts>
       </usages-collector>
     </session>
@@ -71,8 +277,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3145">
-              <caret line="195" column="45" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
+            <state relative-caret-position="17">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -91,11 +297,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="1037">
+              <caret line="67" column="122" selection-start-line="67" selection-start-column="122" selection-end-line="67" selection-end-column="122" />
               <folding>
                 <element signature="e#1#19#0" expanded="true" />
               </folding>
@@ -104,22 +310,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="-1999">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -127,10 +321,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/neuralnet/helpers/dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="721">
+              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -152,6 +347,7 @@
       <find>optimi</find>
       <find>transpose</find>
       <find>embed</find>
+      <find>sigmoid</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,9 +360,10 @@
         <option value="$PROJECT_DIR$/neuralnet/helpers/output/processpianoroll.py" />
         <option value="$PROJECT_DIR$/neuralnet/helpers/Convert.py" />
         <option value="C:/Python/Lib/site-packages/pypianoroll/multitrack.py" />
-        <option value="$PROJECT_DIR$/neuralnet/helpers/GRU.py" />
         <option value="$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py" />
         <option value="$PROJECT_DIR$/neuralnet/helpers/datapreparation.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/GRU.py" />
+        <option value="$PROJECT_DIR$/neuralnet/helpers/dataset.py" />
       </list>
     </option>
   </component>
@@ -176,10 +373,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1874" />
-    <option name="y" value="51" />
-    <option name="width" value="1873" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1925" />
+    <option name="y" value="-26" />
+    <option name="width" value="1813" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -187,6 +384,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,18 +403,10 @@
               <item name="neuralnet" type="462c0819:PsiDirectoryNode" />
               <item name="helpers" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master" type="462c0819:PsiDirectoryNode" />
-              <item name="neuralnet" type="462c0819:PsiDirectoryNode" />
-              <item name="helpers" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,6 +414,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -336,10 +527,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1874" y="51" width="1873" height="1056" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26916713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26545843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -376,38 +567,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Generalist.pt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3145">
-          <caret line="195" column="45" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Generalist.pt" />
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py" />
     <entry file="file://$PROJECT_DIR$/neuralnet/helpers/Convert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -417,22 +578,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/pypianorolltest.py">
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="1037">
+          <caret line="67" column="122" selection-start-line="67" selection-start-column="122" selection-end-line="67" selection-end-column="122" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/processpianoroll.py">
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/datapreparation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="-1999">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding>
-            <element signature="e#1#19#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/GRU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuralnet/helpers/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

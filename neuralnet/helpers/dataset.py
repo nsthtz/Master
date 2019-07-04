@@ -45,6 +45,9 @@ class pianoroll_dataset_batch(Dataset):
     def view_pianoroll(self,idx):
         ## datp.visualize_piano_roll(self[idx]) originalt
         datp.visualize_piano_roll(self.data[idx])
+
+    def getTag(self, idx):
+        return self.tags[idx]
         
 class pianoroll_dataset_chunks(Dataset):
     def __init__(self, root_dir,transform=None,binarize=True,delta=1):
@@ -98,6 +101,9 @@ class pianoroll_dataset_chunks(Dataset):
         
     def view_pianoroll(self,idx):
         datp.visualize_piano_roll(self[idx])
+
+    def getTag(self, idx):
+        return self.tags[idx]
         
 def one_end(input_tensor,k=1):
     return torch.cat( (input_tensor[k:], torch.zeros(size=(k,input_tensor.shape[1],input_tensor.shape[2]))) )

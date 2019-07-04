@@ -41,16 +41,12 @@ class Generalist(nn.Module):
         input_sequence = self.dropout(input_sequence)
         lstm_out, hidden = self.lstm(self.notes_encoder(input_sequence), hidden)
 
-        ### TEST
         lstm_out = self.relu(lstm_out)
         lstm_out = self.notes_decoder(lstm_out)
 
+        # Optional
         if sigmoid:
             lstm_out = self.output(lstm_out)
-        ###
-
-
-        #lstm_out = self.output(self.notes_decoder(lstm_out))
 
         return lstm_out, hidden
 
@@ -61,9 +57,6 @@ def printcsv(output, name):
     np.savetxt(str(name) + '.csv', nparray, fmt='%.10f')
 
 ### Main training loop
-
-
-
 def train_sequence(model, num_epochs, data, optimizer, loss_log):
 
     device='cpu'
