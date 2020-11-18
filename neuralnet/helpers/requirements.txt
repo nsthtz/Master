@@ -9,7 +9,7 @@ MarkupSafe==1.0
 matplotlib==2.2.3
 nbconvert==5.3.1
 nbformat==4.4.0
-notebook==5.5.0
+notebook==6.1.5
 numpy==1.15.2
 pandas==0.23.4
 pretty-midi==0.2.8
