@@ -1,5 +1,5 @@
 fluidsynth==0.2
-ipython==5.7.0
+ipython==7.16.3
 jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
